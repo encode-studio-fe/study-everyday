@@ -1,0 +1,17 @@
+{
+  "name": "题目",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node script/index.js",
+    "dev:n": "node script/index.js n"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.1.0"
+  }
+}
